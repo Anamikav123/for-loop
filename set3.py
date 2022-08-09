@@ -1,0 +1,15 @@
+set1={1,2,3,4,5,5,5}
+print(set1)
+set1.remove(1)
+print(set1)
+print("------------")
+
+set1.discard(2)
+print(set1)
+set1.discard(660)
+print(set1)
+print("------------")
+set1.pop()
+print(set1)
+set1.clear()
+print(set1) #clear all set data type display as set()

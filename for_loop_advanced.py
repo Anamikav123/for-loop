@@ -1,4 +1,3 @@
-testing-----------------------------------------------updated
 # 1-10 numbers multiplication
 mul=1
 for i in range(1,11):
